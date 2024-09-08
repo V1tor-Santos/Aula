@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+    color: white;
+   
+}
+
+header{
+display: flex;
+justify-content: center;
+
+}
+article{
+    display: flex;
+    justify-content: center;
+
+}
